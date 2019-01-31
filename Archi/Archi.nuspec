@@ -2,9 +2,9 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Archi</id>
-    <version>4.2.0.1</version>
+    <version>4.3.2</version>
     <title>Archi, The Free ArchiMate Modelling Tool</title>
-    <authors>PhillipBeauvoir</authors>
+    <authors>Phillip Beauvoir</authors>
     <owners>foxtricks</owners>
     <licenseUrl>http://www.archimatetool.com/faq#licence</licenseUrl>
     <projectUrl>http://archimatetool.com</projectUrl>
@@ -14,10 +14,10 @@
     <description>The Archi® modelling tool is targeted toward all levels of Enterprise Architects and Modellers. It provides a low cost to entry solution to users who may be making their first steps in the ArchiMate modelling language, or who are looking for a free, cross-platform ArchiMate modelling tool for their company or institution and wish to engage with the language within a TOGAF® or other Enterprise Architecture framework. The application will be installed in "C:\Program Files (x86)\Archi".</description>
     <summary>A free and open source modelling tool to create ArchiMate models and sketches. Used by hundreds of Enterprise Architects throughout the world.</summary>
     <releaseNotes>ArchiMate 3.0 support new and changed concepts, relationships to relationships, metamodel, many changes and fixes</releaseNotes>
-    <copyright>Copyright (c) 2013-2017 Phillip Beauvoir</copyright>
+    <copyright>Copyright (c) 2013-2019 Phillip Beauvoir, Jean-Baptiste Sarrodie, The Open Group</copyright>
     <tags>archimate togaf admin</tags>
     <packageSourceUrl>https://github.com/FilipDeVos/ChocolateyAssets/tree/master/Archi</packageSourceUrl>
-    <docsUrl>https://archimatetool.com/downloads/release/v4/Archi%20User%20Guide.pdf</docsUrl>
+    <docsUrl>https://www.archimatetool.com/downloads/Archi%20User%20Guide.pdf</docsUrl>
     <bugTrackerUrl>https://github.com/archimatetool/archi/issues</bugTrackerUrl>
   </metadata>
   <files>
